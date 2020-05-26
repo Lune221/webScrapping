@@ -1,0 +1,4 @@
+[0502/190110.709:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0502/190110.719:ERROR:exception_snapshot_win.cc(98)] thread ID 17052 not found in process
+[0502/190110.772:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0502/190110.772:ERROR:exception_snapshot_win.cc(98)] thread ID 12516 not found in process
